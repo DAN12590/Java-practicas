@@ -21,4 +21,7 @@ Ejercicios de Java, cada uno en su propio package dentro de `src/`.
 | `ej15_herenciaVehiculos` | Herencia: `Coche` y `Moto` heredan de `Vehiculo`; la moto indica si tiene sidecar. |
 | `ej16_tryCatch` | Pide un número hasta que sea válido, controlando el error con `try / catch`. |
 | `ej17_archivos` | Escribir, añadir líneas y leer un archivo de texto con `BufferedWriter` / `BufferedReader`. |
+| `ej18_matrices` | Introducción a las matrices (arrays de dos dimensiones). |
+| `ej19_parqueMatrices` | Mapa 10x10 de un parque con elementos colocados al azar; los cuenta y permite consultar una coordenada. |
+| `ej20_algoritmia` | Algoritmia básica: números primos y factorial. |
 | `ProyectoBanco` | Proyecto de banco: cuentas de ahorro y corriente (herencia), ingresos, retiradas, intereses e historial de movimientos. |
